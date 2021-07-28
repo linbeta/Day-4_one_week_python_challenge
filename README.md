@@ -9,4 +9,4 @@
 
 ## 輸出結果如下圖
 
-![img.png](output.png)
+![output.png](output.png)
