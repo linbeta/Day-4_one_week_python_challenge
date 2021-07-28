@@ -9,4 +9,4 @@
 
 ## 輸出結果如下圖
 
-![output.png](output.png)
+![output.png](https://github.com/linbeta/Day-4_one_week_python_challenge/blob/main/output.PNG)
